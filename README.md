@@ -2,7 +2,7 @@
 
 To run this project:
 * Clone this repo
-* install Node.js
+* Install Node.js
 * Change to this repo's root directory
 * Run "node server.js"
 * In a browser, navigate to http://localhost:3000/
